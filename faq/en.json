@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": "backup",
+      "question": "How do I back up my deck?",
+      "answer": "Open Settings → Backup & Restore to export your library as a JSON file to iCloud or elsewhere."
+    },
+    {
+      "id": "review",
+      "question": "How are review intervals calculated?",
+      "answer": "Customize intervals under Settings → Review Config. Review mode on the home screen surfaces cards when they are due."
+    }
+  ]
+}

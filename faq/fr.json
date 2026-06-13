@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": "backup",
+      "question": "Comment sauvegarder mon paquet ?",
+      "answer": "Réglages → Sauvegarde et restauration pour exporter la bibliothèque en JSON."
+    },
+    {
+      "id": "review",
+      "question": "Comment sont calculés les intervalles de révision ?",
+      "answer": "Personnalisez-les dans Réglages → Intervalles de révision."
+    }
+  ]
+}
